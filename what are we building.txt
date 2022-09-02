@@ -1,0 +1,2 @@
+This is a simple program that will help you to send custom emails using python
+(suggested by borntohtml on sololearn)
