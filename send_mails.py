@@ -66,7 +66,7 @@ def open_file(atype):
 	return file_data, file_name, main_type, file_type
 
 
-
+"""
 def add_image():
 	url = input("\nEnter the url of the image: ")
 
@@ -74,6 +74,8 @@ def add_image():
 		file_data = f.read()
 		file_name = f.name
 		file_type = ""
+"""
+
 
 def send_message(email, password, msg):
 	with smtplib.SMTP('smtp.outlook.com', 587) as smtp:
